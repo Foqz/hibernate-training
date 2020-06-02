@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/hb-01-one-to-one-uni/hb-01-one-to-one-uni.iml" filepath="$PROJECT_DIR$/hb-01-one-to-one-uni/hb-01-one-to-one-uni.iml" />
       <module fileurl="file://$PROJECT_DIR$/hb-03-one-to-many/hb-03-one-to-many.iml" filepath="$PROJECT_DIR$/hb-03-one-to-many/hb-03-one-to-many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hb-04-one-to-many-uni/hb-04-one-to-many-uni.iml" filepath="$PROJECT_DIR$/hb-04-one-to-many-uni/hb-04-one-to-many-uni.iml" />
       <module fileurl="file://$PROJECT_DIR$/hb-eager-vs-lazy-demo/hb-eager-vs-lazy-demo.iml" filepath="$PROJECT_DIR$/hb-eager-vs-lazy-demo/hb-eager-vs-lazy-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/hibernate-tutorial.iml" filepath="$PROJECT_DIR$/hibernate-tutorial.iml" />
     </modules>
